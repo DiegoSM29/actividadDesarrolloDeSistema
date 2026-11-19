@@ -1,0 +1,67 @@
+[
+  {
+    "id": "proj-1",
+    "nombre": "Desarrollo Web Corporativo",
+    "descripcion": "Creación de sitio web corporativo con diseño responsive y CMS personalizado",
+    "fechaInicio": "2024-01-15",
+    "fechaFin": "2024-03-30",
+    "estado": "activo",
+    "responsable": "ana@email.com",
+    "miembros": [
+      "ana@email.com",
+      "carlos@email.com",
+      "maria@email.com"
+    ],
+    "color": "#6C63FF",
+    "createdAt": "2024-01-15T00:00:00.000Z",
+    "updatedAt": "2024-01-15T00:00:00.000Z"
+  },
+  {
+    "id": "proj-2",
+    "nombre": "App Móvil E-commerce",
+    "descripcion": "Desarrollo de aplicación móvil para tienda en línea con React Native",
+    "fechaInicio": "2024-02-01",
+    "fechaFin": "2024-05-15",
+    "estado": "activo",
+    "responsable": "carlos@email.com",
+    "miembros": [
+      "carlos@email.com",
+      "ana@email.com"
+    ],
+    "color": "#FF6B6B",
+    "createdAt": "2024-02-01T00:00:00.000Z",
+    "updatedAt": "2024-02-01T00:00:00.000Z"
+  },
+  {
+    "id": "proj-3",
+    "nombre": "Sistema de Inventario",
+    "descripcion": "Plataforma web para control de inventario y gestión de almacén",
+    "fechaInicio": "2024-03-01",
+    "fechaFin": "2024-06-30",
+    "estado": "activo",
+    "responsable": "maria@email.com",
+    "miembros": [
+      "maria@email.com",
+      "ana@email.com",
+      "carlos@email.com"
+    ],
+    "color": "#4ECDC4",
+    "createdAt": "2024-03-01T00:00:00.000Z",
+    "updatedAt": "2024-03-01T00:00:00.000Z"
+  },
+  {
+    "id": "389e4b28-596a-48ce-ab75-c5867a24f645",
+    "nombre": "sadasd",
+    "descripcion": "adsdssdds",
+    "fechaInicio": "2026-11-19",
+    "fechaFin": "",
+    "estado": "activo",
+    "responsable": "diego@gmail.com",
+    "miembros": [
+      "asdasdsa"
+    ],
+    "color": "#6C63FF",
+    "createdAt": "2026-11-19T16:58:40.608Z",
+    "updatedAt": "2026-11-19T16:58:40.608Z"
+  }
+]

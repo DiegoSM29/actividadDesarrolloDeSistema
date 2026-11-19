@@ -1,0 +1,65 @@
+[
+  {
+    "id": "comment-1",
+    "tareaId": "task-1",
+    "texto": "Los mockups están listos para revisión. He subido los archivos a Figma.",
+    "autor": "carlos@email.com",
+    "autorNombre": "Carlos López",
+    "createdAt": "2024-01-25T10:30:00.000Z",
+    "updatedAt": "2024-01-25T10:30:00.000Z"
+  },
+  {
+    "id": "comment-2",
+    "tareaId": "task-1",
+    "texto": "Se ven genial! Solo hay que ajustar las tipografías en la página de contacto.",
+    "autor": "ana@email.com",
+    "autorNombre": "Ana García",
+    "createdAt": "2024-01-25T14:15:00.000Z",
+    "updatedAt": "2024-01-25T14:15:00.000Z"
+  },
+  {
+    "id": "comment-3",
+    "tareaId": "task-2",
+    "texto": "Avance del 60% en el frontend. Falta responsive design.",
+    "autor": "carlos@email.com",
+    "autorNombre": "Carlos López",
+    "createdAt": "2024-02-10T09:00:00.000Z",
+    "updatedAt": "2024-02-10T09:00:00.000Z"
+  },
+  {
+    "id": "comment-4",
+    "tareaId": "task-3",
+    "texto": "He configurado Axios y los interceptores para el token JWT.",
+    "autor": "ana@email.com",
+    "autorNombre": "Ana García",
+    "createdAt": "2024-02-12T11:45:00.000Z",
+    "updatedAt": "2024-02-12T11:45:00.000Z"
+  },
+  {
+    "id": "comment-5",
+    "tareaId": "task-11",
+    "texto": "Llevo implementados los filtros por categoría y precio. Falta la búsqueda por texto.",
+    "autor": "carlos@email.com",
+    "autorNombre": "Carlos López",
+    "createdAt": "2024-03-05T16:20:00.000Z",
+    "updatedAt": "2024-03-05T16:20:00.000Z"
+  },
+  {
+    "id": "e6734b29-d1e4-4da7-93ca-9034b7c809a2",
+    "tareaId": "task-1",
+    "texto": "Al fin pudimos terminar los mockups",
+    "autor": "carlos@email.com",
+    "autorNombre": "Carlos López",
+    "createdAt": "2026-04-07T22:39:40.890Z",
+    "updatedAt": "2026-04-07T22:39:40.890Z"
+  },
+  {
+    "id": "5343af0a-d5c0-4da7-aa1a-1acb1b1131db",
+    "tareaId": "task-1",
+    "texto": "Al fin pudimos terminar los mockups",
+    "autor": "carlos@email.com",
+    "autorNombre": "Carlos López",
+    "createdAt": "2026-04-07T22:39:40.892Z",
+    "updatedAt": "2026-04-07T22:39:40.893Z"
+  }
+]

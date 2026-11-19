@@ -1,0 +1,57 @@
+[
+  {
+    "id": "user-1",
+    "nombre": "Ana García",
+    "email": "ana@email.com",
+    "password": "$2a$10$tIfSShBlnwj22OMARHnM5OlEwotc2fuO.4jj7/F3xsBYglumRVe8m",
+    "avatar": "https://ui-avatars.com/api/?name=Ana+Garcia&background=6C63FF&color=fff",
+    "rol": "admin",
+    "activo": true,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "user-2",
+    "nombre": "Carlos López",
+    "email": "carlos@email.com",
+    "password": "$2a$10$tIfSShBlnwj22OMARHnM5OlEwotc2fuO.4jj7/F3xsBYglumRVe8m",
+    "avatar": "https://ui-avatars.com/api/?name=Carlos+Lopez&background=FF6B6B&color=fff",
+    "rol": "miembro",
+    "activo": true,
+    "createdAt": "2024-01-02T00:00:00.000Z",
+    "updatedAt": "2024-01-02T00:00:00.000Z"
+  },
+  {
+    "id": "user-3",
+    "nombre": "María Rodríguez",
+    "email": "maria@email.com",
+    "password": "$2a$10$tIfSShBlnwj22OMARHnM5OlEwotc2fuO.4jj7/F3xsBYglumRVe8m",
+    "avatar": "https://ui-avatars.com/api/?name=Maria+Rodriguez&background=4ECDC4&color=fff",
+    "rol": "miembro",
+    "activo": true,
+    "createdAt": "2024-01-03T00:00:00.000Z",
+    "updatedAt": "2024-01-03T00:00:00.000Z"
+  },
+  {
+    "id": "effde62d-93e3-4e38-bf83-7c5ca1c9f1ba",
+    "nombre": "ibrahim Cordero",
+    "email": "ibrahim@email.com",
+    "password": "$2a$10$7bD1q0ig6ue/drjGimTa7OyiPTbKqsC/lbDO74d8.oDrzBBGNAjW2",
+    "avatar": "https://ui-avatars.com/api/?name=ibrahim%20Cordero&background=6C63FF&color=fff",
+    "rol": "miembro",
+    "activo": true,
+    "createdAt": "2026-04-07T22:43:06.392Z",
+    "updatedAt": "2026-04-07T22:43:06.392Z"
+  },
+  {
+    "id": "6021ec52-64b1-4655-9749-422a946ca923",
+    "nombre": "diego",
+    "email": "diego@gmail.com",
+    "password": "$2a$10$rV39OGfRJLNmlWiDdHo4LeUfAM6ZEyx6iTITvTCUlFNAq94Yl03v.",
+    "avatar": "https://ui-avatars.com/api/?name=diego&background=6C63FF&color=fff",
+    "rol": "miembro",
+    "activo": true,
+    "createdAt": "2026-11-19T16:58:11.523Z",
+    "updatedAt": "2026-11-19T16:58:11.523Z"
+  }
+]

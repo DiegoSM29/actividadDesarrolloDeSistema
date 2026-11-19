@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "descripcion": "Datos de ejemplo para TaskFlow",
+    "fechaCreacion": "2024-01-01"
+  },
+  "usuarios": [
+    {
+      "nombre": "Ana García",
+      "email": "ana@email.com",
+      "rol": "admin"
+    },
+    {
+      "nombre": "Carlos López",
+      "email": "carlos@email.com",
+      "rol": "miembro"
+    },
+    {
+      "nombre": "María Rodríguez",
+      "email": "maria@email.com",
+      "rol": "miembro"
+    }
+  ],
+  "proyectos": [
+    {
+      "nombre": "Desarrollo Web Corporativo",
+      "descripcion": "Creación de sitio web corporativo con diseño responsive y CMS personalizado",
+      "estado": "activo",
+      "responsable": "ana@email.com"
+    },
+    {
+      "nombre": "App Móvil E-commerce",
+      "descripcion": "Desarrollo de aplicación móvil para tienda en línea con React Native",
+      "estado": "activo",
+      "responsable": "carlos@email.com"
+    },
+    {
+      "nombre": "Sistema de Inventario",
+      "descripcion": "Plataforma web para control de inventario y gestión de almacén",
+      "estado": "activo",
+      "responsable": "maria@email.com"
+    }
+  ],
+  "tareas": [
+    {
+      "titulo": "Diseñar mockups del sitio",
+      "prioridad": "alta",
+      "estado": "completada",
+      "proyecto": "Desarrollo Web Corporativo"
+    },
+    {
+      "titulo": "Desarrollo del frontend",
+      "prioridad": "alta",
+      "estado": "en_progreso",
+      "proyecto": "Desarrollo Web Corporativo"
+    },
+    {
+      "titulo": "Diseño UI/UX de la app",
+      "prioridad": "alta",
+      "estado": "completada",
+      "proyecto": "App Móvil E-commerce"
+    },
+    {
+      "titulo": "Modelo de base de datos",
+      "prioridad": "alta",
+      "estado": "completada",
+      "proyecto": "Sistema de Inventario"
+    }
+  ]
+}
